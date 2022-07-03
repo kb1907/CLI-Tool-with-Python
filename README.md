@@ -1,6 +1,7 @@
 # CLI-Tool-with-Python
 
-- CLI-Tool-with-Python folder for Data Scientist Trainees and DS Aspirants.
+CLI-Tool-with-Python folder for Data Scientist Trainees and DS Aspirants.
+-------------------------------------------------------
 
 - This basic command line tool gives us size and number of rows of files.
 - This command line tool only uses Python withouth any external dependencies. 
